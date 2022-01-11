@@ -168,9 +168,9 @@ int main() {
     std::cout << "Isaac Glassbrook\n17\nBrighton College\nQuestion One\n";
     // std::cout << oneTest(999999) << "\n";
     // std::cout << threeTest();
-    one();
+    // one();
     // two();
-    // three();
+    three();
     std::string nullstr;
     std::cin >> nullstr;
     return 0;
